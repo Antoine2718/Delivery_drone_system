@@ -1,5 +1,4 @@
 # Problème de tournées de drones avec Tabu Search et 2-Opt
-# Python pur: aucune dépendance externe.
 
 from math import sqrt
 
