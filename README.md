@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-A31F34.svg)](./LICENSE)
+
 [![Python](https://img.shields.io/badge/Python-E31937?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
 # 📦 Delivery drone system
