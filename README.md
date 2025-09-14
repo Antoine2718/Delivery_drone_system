@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-A31F34.svg)](./LICENSE)
+
 # 📦 Delivery drone system
 
 Ce projet a pour but de résoudre un problème d'optimisation de tournée avec contraintes de capacité et d’autonomie.
